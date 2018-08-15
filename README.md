@@ -1,6 +1,8 @@
 erb-video-example
 ==================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/erb-video-example.svg)](https://greenkeeper.io/)
+
 **An example of erb with a video**
 
 ## Setup
